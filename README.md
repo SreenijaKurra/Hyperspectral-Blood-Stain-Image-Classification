@@ -33,8 +33,13 @@
 
 <h2>Data Collection</h2>
 <p>
-Our dataset includes hyperspectral images of bloodstains and visually similar substances. To realistically simulate forensic challenges, we created Scene-E, a mock crime scene incorporating blood, acrylic paint, ketchup, and other substances on varied backgrounds (metal, wood, plastic, fabrics). This diverse setup tests the robustness of blood detection algorithms.
+The dataset includes hyperspectral images of bloodstains and visually similar substances. To realistically simulate forensic challenges, we created Scene-E, a mock crime scene incorporating blood, acrylic paint, ketchup, and other substances on varied backgrounds (metal, wood, plastic, fabrics). This diverse setup tests the robustness of blood detection algorithms.
+
 </p>
+<div align="center"> 
+  <img width="300" src="https://raw.githubusercontent.com/sreenijakurra/Hyperspectral-Blood-Stain-Image-Classification/main/HSI img5.png" />
+</div>
+
 
 <h2>Dimensionality Reduction</h2>
 <p>
@@ -54,8 +59,16 @@ Dimensionality Reduction (DR) techniques decrease the complexity of hyperspectra
 
 </body>
 </html>
+<div align="center"> 
+  <img width="400" src="https://raw.githubusercontent.com/sreenijakurra/Hyperspectral-Blood-Stain-Image-Classification/main/HSI img3.png" />
+</div>
+
 
 <h2>Conclusion</h2>
+<div align="center"> 
+  <img width="500" src="https://raw.githubusercontent.com/sreenijakurra/Hyperspectral-Blood-Stain-Image-Classification/main/HSI img4.png" />
+</div>
+
 <p>
 According to the analysis, Factor Analysis dimensionality reduction method gives the highest accuracy out of all other DR techniques. The fast and compact 3D CNN model achieved an accuracy of 99.34% for the calculation of FA, while the hybrid CNN model achieved an even higher accuracy of 99.70%. In terms of time complexity of the dimension reduction, GRP method proves to be highly efficient, however gives tremendously less accuracy than the other methods. For further analysis, if we need to consider a DR method based on both accuracy and time complexity, PCA, SPCA, SVD prove to be better alternatives as they take less time to execute and give better results when compared to all other DR methods.
 </p>
