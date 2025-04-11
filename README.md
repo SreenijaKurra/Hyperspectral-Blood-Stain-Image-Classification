@@ -3,6 +3,9 @@
   Hyperspectral Imaging for Blood Stain Identification in Forensic Science
 </h1>
 
+<a href="https://ieeexplore.ieee.org/abstract/document/10493757" target="_blank"> IEEE Publication Link</a>
+<br>
+
 <p style="text-align: justify; font-family: Arial, sans-serif;">
   This project highlights the potential of hyperspectral imaging as a non-invasive technique for identifying and classifying blood stains in forensic science, eliminating the need for physical sampling of critical evidence. Traditional chemical processes used for blood identification and classification often compromise subsequent DNA analysis, necessitating the exploration of innovative methods. However, developing robust algorithms for blood detection using hyperspectral imaging is challenging due to the high dimensionality of the data and the limited availability of training samples.
 </p>
