@@ -14,14 +14,6 @@
   To address these challenges, this work introduces a novel hyperspectral blood detection dataset and investigates eight dimensionality reduction techniques as preprocessing methods. These methods are evaluated using state-of-the-art fast and compact 3D Convolutional Neural Network (CNN) and Hybrid CNN models. Experimental results underscore the complexities involved in hyperspectral blood detection and suggest avenues for future research. Additionally, the paper emphasizes the value of <strong style="color: #4CAF50;">Factor Analysis</strong> as a statistical approach to uncover underlying factors explaining the patterns and relationships among observed variables.
 </p>
 
-<h2> Methodology </h2>
-  
-<div align="center"> 
-  <img width="200" src="https://raw.githubusercontent.com/sreenijakurra/Hyperspectral-Blood-Stain-Image-Classification/main/HSI img1.png" />
-</div>
-
-
-
 
 <h2>Key Contributions</h2>
 <ul>
@@ -29,6 +21,15 @@
     <li>Demonstrated improved performance using advanced dimensionality reduction methods.</li>
     <li>Established that <strong>Factor Analysis (FA)</strong> outperforms traditional techniques (PCA, LDA, iPCA) in classifying bloodstains.</li>
 </ul>
+
+
+<h2> Methodology </h2>
+  
+<div align="center"> 
+  <img width="200" src="https://raw.githubusercontent.com/sreenijakurra/Hyperspectral-Blood-Stain-Image-Classification/main/HSI img1.png" />
+</div>
+
+
 
 <h2>Data Collection</h2>
 <p>
